@@ -1,3 +1,6 @@
+import core
+# or
+from core import download_file
 
 # Ask Doubt on telegram @ramjiofficial
 
